@@ -1,0 +1,17 @@
+{
+  "extends": ["config:base", "helpers:pinGitHubActionDigests"],
+  "dependencyDashboard": true,
+  "prCreation": "not-pending",
+  "internalChecksFilter": "strict",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true
+  },
+  "packageRules": [
+    {
+      "description": "Wait 3 days before creating a npm update PR",
+      "matchDatasources": ["npm"],
+      "stabilityDays": 3
+    }
+  ]
+}

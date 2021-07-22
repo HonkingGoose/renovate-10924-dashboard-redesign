@@ -1,0 +1,24 @@
+{
+  "name": "renovate-10924-dashboard-redesign",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Contains the Markdown mockup for the Renovate Dependency Dashboard redesign.",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --check .",
+    "prettier-fix": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HonkingGoose/renovate-10924-dashboard-redesign.git"
+  },
+  "author": "HonkingGoose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HonkingGoose/renovate-10924-dashboard-redesign/issues"
+  },
+  "homepage": "https://github.com/HonkingGoose/renovate-10924-dashboard-redesign#readme"
+}
