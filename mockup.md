@@ -2,73 +2,73 @@ This issue provides visibility into Renovate updates and their statuses. [Learn 
 
 ## Pending Approval
 
-#### `renovate/@aws-sdk/client-ecr`
+`renovate/@aws-sdk/client-ecr`
 
 | Package             | Change           | Confidence                                                                                                                                                                |
 | ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | @aws-sdk/client-ecr | 3.18.0 -> 3.21.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/azure-devops-node-api`
+`renovate/azure-devops-node-api`
 
 | Package               | Change          | Confidence                                                                                                                                                                |
 | --------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | azure-devops-node-api | x.x.x -> 11.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/commander`
+`renovate/commander`
 
 | Package   | Change         | Confidence                                                                                                                                                                |
 | --------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | commander | x.x.x -> 8.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/crypto-random-string`
+`renovate/crypto-random-string`
 
 | Package              | Change         | Confidence                                                                                                                                                                |
 | -------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | crypto-random-string | x.x.x -> 4.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/markdown-table`
+`renovate/markdown-table`
 
 | Package        | Change         | Confidence                                                                                                                                                                |
 | -------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | markdown-table | x.x.x -> 3.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/node-html-parser`
+`renovate/node-html-parser`
 
 | Package          | Change         | Confidence                                                                                                                                                                |
 | ---------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | node-html-parser | x.x.x -> 4.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/p-all`
+`renovate/p-all`
 
 | Package | Change         | Confidence                                                                                                                                                                |
 | ------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | p-all   | x.x.x -> 4.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/p-map`
+`renovate/p-map`
 
 | Package | Change         | Confidence                                                                                                                                                                |
 | ------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | p-map   | x.x.x -> 5.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/p-queue`
+`renovate/p-queue`
 
 | Package | Change         | Confidence                                                                                                                                                                |
 | ------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | p-queue | x.x.x -> 7.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/strip-ansi`
+`renovate/strip-ansi`
 
 | Package    | Change         | Confidence                                                                                                                                                                |
 | ---------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | strip-ansi | x.x.x -> 7.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/unified`
+`renovate/unified`
 
 | Package | Change          | Confidence                                                                                                                                                                |
 | ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | unified | x.x.x -> 10.0.0 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/nodejs`
+`renovate/nodejs`
 
 | Package | Change          | Confidence                                                                                                                                                                |
 | ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,13 +78,13 @@ This issue provides visibility into Renovate updates and their statuses. [Learn 
 
 ## Awaiting Schedule
 
-#### `renovate/renovate/renovate`
+`renovate/renovate/renovate`
 
 | Package           | Change           | Confidence                                                                                                                                                                |
 | ----------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | renovate/renovate | x.x.x -> 25.56.8 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/lockfile`
+`renovate/lockfile`
 
 | Package               | Change   | Confidence                                                                                                                                                                |
 | --------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,25 +92,25 @@ This issue provides visibility into Renovate updates and their statuses. [Learn 
 
 ## Pending Status Checks
 
-#### `renovate/jest-mock-extended`
+`renovate/jest-mock-extended`
 
 | Package            | Change          | Confidence                                                                                                                                                                |
 | ------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | jest-mock-extended | x.x.x -> 1.0.18 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/ts-jest`
+`renovate/ts-jest`
 
 | Package | Change          | Confidence                                                                                                                                                                |
 | ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ts-jest | x.x.x -> 27.0.4 | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/insert-proper-branchname-here`
+`renovate/insert-proper-branchname-here`
 
 | Package                                                                                           | Change | Confidence                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | linters (@typescript-eslint/eslint-plugin, @typescript-eslint/parser, eslint, eslint-plugin-jest) | group  | [![confidence](https://badges.renovateapi.com/packages/npm/@docusaurus%2fcore/2.0.0-beta.3/confidence-slim/2.0.0-beta.2)](https://docs.renovatebot.com/merge-confidence/) |
 
-#### `renovate/slugify`
+`renovate/slugify`
 
 | Package | Change          | Confidence                                                                                                                                                                |
 | ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
